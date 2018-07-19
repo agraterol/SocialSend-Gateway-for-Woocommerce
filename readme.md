@@ -13,7 +13,7 @@ Show prices in SocialSend (SEND) and accept SocialSend payments in your woocomme
 
 == Description ==
 
-Display prices in SocialSend (SEND) and let your clients pay through the SocialSend client software. Built on top of Ripple Gateway developed by Casper Mekel and uses the Social Send Extended Api developed by Hernss. 
+Display prices in SocialSend (SEND) and let your clients pay through the SocialSend client software. Built on top of Ripple Gateway developed by Casper Mekel and uses the Social Send Extended Api developed by Hernss.  
 
 * Display prices in SocialSend (SEND) in store and on checkout
 * Prices are calculated based on coinmarketcap rate
@@ -47,9 +47,11 @@ With these plugins you can set mandatory fields for visitors registering an acco
 
 ![screenshot-1](assets/screenshot-1.png?raw=true "screenshot-1")
 
-2. Front-end view
+2. Product details view
 
 ![screenshot-2](assets/screenshot-2.png?raw=true "screenshot-2")
+
+3. Checkout view
 
 ![screenshot-3](assets/screenshot-3.png?raw=true "screenshot-3")
 
