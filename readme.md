@@ -1,12 +1,13 @@
 === Send Gateway for Woocommerce ===
-Author: ant0n0vich
-Donate link: SEND: SSPfJ3jJ31Bk8ziq2aJx5jiTdqyXKdUvrE
-Tags: billing, invoicing, woocommerce, payment
-Requires at least: 3.0.1
-Tested up to: 4.8
-Stable tag: 0.4.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Author: ant0n0vich 
+Donate link: SEND: SSPfJ3jJ31Bk8ziq2aJx5jiTdqyXKdUvrE 
+Tags: billing, invoicing, woocommerce, payment 
+Requires at least: 3.0.1 
+Tested up to: 4.8 
+Stable tag: 0.4.3 
+License: GPLv2 or later 
+License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
 Show prices in SocialSend (SEND) and accept SocialSend payments in your woocommerce webshop
 
@@ -43,10 +44,13 @@ With these plugins you can set mandatory fields for visitors registering an acco
 == Screenshots ==
 
 1. Admin Settings
+
 ![screenshot-1](assets/screenshot-1.png?raw=true "screenshot-1")
 
 2. Front-end view
+
 ![screenshot-2](assets/screenshot-2.png?raw=true "screenshot-2")
+
 ![screenshot-3](assets/screenshot-3.png?raw=true "screenshot-3")
 
 == Changelog ==
